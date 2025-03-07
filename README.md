@@ -13,15 +13,15 @@
 ---
 
 ## **How It Works**  
-### **Step 1: Model Creation**  
+### Model Creation**  
 - Define your custom data model by specifying attributes (e.g., keywords, organization names, funding amounts).  
 - Automatically generate a Pydantic model to ensure accurate data extraction from target websites.  
 
-### **Step 2: Data Scraping**  
+### Data Scraping**  
 - Input the URL of a successful grant application or a related webpage.  
 - The tool scrapes data using the defined model and parses HTML content to extract relevant information, such as funding criteria, application language, and success factors.  
 
-### **Step 3: Data Analysis**  
+### Data Analysis**  
 - Extracted data is structured into JSON format, making it easy to analyze trends and incorporate insights into grant-writing strategies.  
 - Directly view results in the app for quick insights or export them for detailed review.  
 
@@ -40,6 +40,3 @@
 
 4. **Export or Analyze**  
    - Download the structured data in JSON format for use in grant optimization efforts, or view the insights directly within the app.  
-
-
-This revised README better aligns with your use case, emphasizing nonprofit-focused AI scraping and the practical application of extracted data to optimize grant writing. Let me know if you'd like further tweaks!
