@@ -1,6 +1,7 @@
 # GrantAIScraper
 
-**Welcome to AI Grant Scraper**, a specialized tool designed to empower nonprofit organizations in optimizing grant applications, made during my internship with New Jersey Voice for Progress/American Muslims for Democracy. Built with **Streamlit** and the **LangChain library**, this tool uses AI-driven scraping to extract actionable insights from awarded grants, helping nonprofits identify key trends and keywords to enhance their chances of securing funding.  
+**Welcome to AI Grant Scraper**, a specialized tool designed to empower nonprofit organizations in optimizing grant applications, made during my internship with New Jersey Voice for Progress/American Muslims for Democracy. (https://njmvp.org)
+Built with **Streamlit** and the **LangChain library**, this tool uses AI-driven scraping to extract actionable insights from awarded grants, helping nonprofits identify key trends and keywords to enhance their chances of securing funding.  
 
 ---
 
